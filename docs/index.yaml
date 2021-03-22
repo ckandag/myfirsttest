@@ -8,7 +8,9 @@ entries:
     digest: d9e76dc29f41ef9ad16d7f753dca12837a47393992b5376fcf01b82d37889702
     name: helm-chart-test
     type: application
+    sources:
+    - https://github.com/ckandag/myfirsttest
     urls:
-    - https://ckandag.github.io/myfirsttest/helm-chart-test-0.1.0.tgz
+    - helm-chart-test-0.1.0.tgz
     version: 0.1.0
 generated: "2021-03-21T18:55:12.068132-05:00"
